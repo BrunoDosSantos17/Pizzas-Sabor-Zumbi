@@ -16,7 +16,7 @@
 - Tiled 
 - Netbeans
 
-  ## Como rodar ![Pizza tank](https://github.com/BrunoDosSantos17/Pizzas-Sabor-Zumbi/blob/master/core/assets/Tank.png)
+## Como rodar ![Pizza tank](https://github.com/BrunoDosSantos17/Pizzas-Sabor-Zumbi/blob/master/core/assets/Tank.png)
   
   Simplesmente clone ou faça um zip, abra com a IDE que você mais goste e rode o cors do jogo.
   
