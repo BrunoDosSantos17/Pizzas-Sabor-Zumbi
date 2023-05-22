@@ -2,7 +2,7 @@
 
 ## Por que foi criado? ![jogador](https://github.com/BrunoDosSantos17/Pizzas-Sabor-Zumbi/blob/master/core/assets/PersonagemAtirando.png)
 
-  Esse jogo foi criado por alunos do IFC - campos Blumenau como demonstrativos dos conhecimentos em programação. Seus criadores foram [Bruno dos Santos](github.com/BrunoDosSantos17), [Gabriel Kresin](github.com/Kresin) e [Werner A Kupske](https://github.com/WernerKupske47) e pode ser utilizado por qualquer pessoa, contando que não seja por fins lucrativos, mas sim para estudo.
+  Esse jogo foi criado por alunos do IFC - campos Blumenau como demonstrativos dos conhecimentos em programação. Seus criadores foram [Bruno dos Santos](https://github.com/BrunoDosSantos17), [Gabriel Kresin](https://github.com/Kresin) e [Werner A Kupske](https://github.com/WernerKupske47) e pode ser utilizado por qualquer pessoa, contando que não seja por fins lucrativos, mas sim para estudo.
   
   ## História ![Pizza Norma](https://github.com/BrunoDosSantos17/Pizzas-Sabor-Zumbi/blob/master/core/assets/Pizza-Normal.png) 
 
